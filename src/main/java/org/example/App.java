@@ -10,9 +10,6 @@ public class App {
         int input = scanner.nextInt();
         int result = indexOf(input);
         System.out.println("result = " + result);
-
-
-
     }
 
 
